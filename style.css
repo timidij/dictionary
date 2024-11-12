@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+}
+.definition{
+    border-radius: 30px;
+    background-color: rgba(252, 242, 242, 0.555);
+    box-shadow: inset(30px,40px, black);
+    padding: 20px;
+    margin-bottom: 10px;
+}
